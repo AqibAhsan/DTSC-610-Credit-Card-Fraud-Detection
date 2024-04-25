@@ -1,6 +1,5 @@
 ### DTSC-610-Credit-Card-Fraud-Detection
 
-Summary:
 Overall, this project provided insights into the process of building a fraud detection system using machine learning, highlighting the importance of data preprocessing, feature engineering, model selection, and evaluation. 
 
 In this project, we leveraged machine learning techniques to build a predictive model for identifying fraudulent credit card transactions. We began by exploring a synthesized credit card transaction dataset, examining variables' distributions and the balance between fraudulent and genuine transactions.
